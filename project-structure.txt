@@ -1,0 +1,15 @@
+image-encrypt-app/
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── services/
+│       ├── utils/
+│       └── styles/
+├── backend/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── services/
+│   └── utils/
+└── docker/
